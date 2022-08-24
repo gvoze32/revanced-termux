@@ -31,8 +31,8 @@ fi
 if [ $opt = 4 ] || [ $opt = 4 ]; then
     echo " ReVanced Builder & Patch "
     echo -e
-    echo " 1. Delete Cache "
-    echo " 2. Delete Keystore "
+    echo " 1. Build Vanced      (Delete Cache)"
+    echo " 2. Reinstall Vanced  (Delete Keystore) "
     echo -e
     echo " e. Back "
     echo -e
@@ -54,7 +54,7 @@ if [ $opt = 5 ] || [ $opt = 5 ]; then
 fi
 
 if [ $opt = e ] || [ $opt = E ]; then
-    echo -e " Exiting "
+    echo -e " Exiting..."
     sleep 1
     reset
     clear
