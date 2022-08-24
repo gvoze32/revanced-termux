@@ -52,6 +52,7 @@ fi
 
 if [ $opt = 5 ] || [ $opt = 5 ]; then
     bash .revanced-builder.sh help
+    bash run.sh
 fi
 
 if [ $opt = e ] || [ $opt = E ]; then
