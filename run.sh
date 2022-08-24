@@ -29,6 +29,7 @@ if [ $opt = 3 ] || [ $opt = 3 ]; then
 fi
 
 if [ $opt = 4 ] || [ $opt = 4 ]; then
+    clear
     echo " ReVanced Builder & Patch "
     echo -e
     echo " 1. Build Vanced      (Delete Cache)"
