@@ -36,9 +36,8 @@ if [ $opt = 4 ] || [ $opt = 4 ]; then
     echo -e
     echo " e. Back "
     echo -e
-    echo " Choice :"
+    read -p "Choice: " optm
 
-    read optm
     if [ $optm = 1 ] || [ $optm = 1 ]; then
         bash .revanced-builder.sh run --delete-cache
     fi
