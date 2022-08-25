@@ -7,7 +7,7 @@ This build incudes:
 - TikTok
 - Twitter
 - Reddit
-- Pflotsh
+- ~~Pflotsh~~
 - WarnWetter
 
 It's recommended to use Termux from their GitHub repository or F-Droid, avoid using it from Play Store since it's deprecated.
