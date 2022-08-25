@@ -22,4 +22,8 @@ If you plan to use it from source, you'll also require [NodeJS >=13](https://nod
 
 ## How to use
 
-`bash run.sh`
+```
+$ termux-setup-storage
+$ curl https://raw.githubusercontent.com/gvoze32/ReVanced-Termux/main/run.sh -o run.sh
+$ bash run.sh
+```
