@@ -20,7 +20,7 @@ You'll need at least [Azul Zulu OpenJDK 17](https://www.azul.com/downloads/?vers
 
 If you plan to use it from source, you'll also require [NodeJS >=13](https://nodejs.org/).
 
-## How to use
+## Install
 
 ```
 $ termux-setup-storage
