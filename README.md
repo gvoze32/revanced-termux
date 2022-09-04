@@ -1,4 +1,4 @@
-# ReVanced-Termux
+# revanced-termux
 CLI ReVanced bash builder for Termux. This tool simplify the process of building ReVanced and the Patches available.
 
 This build incudes:
@@ -24,6 +24,6 @@ If you plan to use it from source, you'll also require [NodeJS >=13](https://nod
 
 ```
 $ termux-setup-storage
-$ curl https://raw.githubusercontent.com/gvoze32/ReVanced-Termux/main/run.sh -o run.sh
+$ curl https://raw.githubusercontent.com/gvoze32/revanced-termux/main/run.sh -o run.sh
 $ bash run.sh
 ```
